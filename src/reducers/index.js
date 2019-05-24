@@ -1,5 +1,5 @@
-import {combineReducers} from 'redux'
-import {dealWithEventsFetched} from './events'
+import { combineReducers } from 'redux'
+import { dealWithEventsFetched } from './events'
 import reducer from './events'
 import event from './event'
 

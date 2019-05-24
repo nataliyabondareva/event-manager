@@ -1,34 +1,136 @@
 {
   "events": [
     {
-      "id": 1,
-      "name": "Codaisseur Demo Night",
-      "date": "30-07-2020",
-      "description": "This is the best demo night you have ever seen. It's a-m-a-z-i-n-g. Seriously. Lets make a dent in the universe."
-    },
-    {
       "id": 2,
-      "name": "WWDC: iPhone XXL keynote",
-      "date": "04-08-2020",
-      "description": "The best iPhone we've build so far. For realz this time. "
+      "name": "e!!!",
+      "date": "f",
+      "description": "g",
+      "editMode": false,
+      "formValues": {
+        "editMode": false,
+        "formValues": {
+          "editMode": false,
+          "formValues": {
+            "name": "",
+            "date": "",
+            "description": ""
+          },
+          "name": "e"
+        },
+        "name": "e",
+        "date": "f"
+      }
     },
     {
       "id": 3,
-      "name": "Cat-cuddling world record",
-      "date": "09-09-2021",
-      "description": "Can we has cheaseburgerz?"
+      "name": "qqqq",
+      "date": "qqqq",
+      "description": "qqqq",
+      "editMode": true,
+      "formValues": {
+        "editMode": true,
+        "formValues": {
+          "editMode": true,
+          "formValues": {
+            "editMode": true,
+            "formValues": {
+              "editMode": true,
+              "formValues": {
+                "editMode": true,
+                "formValues": {
+                  "editMode": true,
+                  "formValues": {
+                    "editMode": true,
+                    "formValues": {
+                      "editMode": true,
+                      "formValues": {
+                        "editMode": true,
+                        "formValues": {
+                          "editMode": true,
+                          "formValues": {
+                            "editMode": true,
+                            "formValues": {
+                              "name": "",
+                              "date": "",
+                              "description": ""
+                            },
+                            "name": "q"
+                          },
+                          "name": "qq"
+                        },
+                        "name": "qqq"
+                      },
+                      "name": "qqq",
+                      "date": "q"
+                    },
+                    "name": "qqq",
+                    "date": "qq"
+                  },
+                  "name": "qqq",
+                  "date": "qqq"
+                },
+                "name": "qqq",
+                "date": "qqq",
+                "description": "q"
+              },
+              "name": "qqq",
+              "date": "qqq",
+              "description": "qq"
+            },
+            "name": "qqq",
+            "date": "qqq",
+            "description": "qqq"
+          },
+          "name": "qqqq",
+          "date": "qqq",
+          "description": "qqq"
+        },
+        "name": "qqqq",
+        "date": "qqqq",
+        "description": "qqq"
+      }
     },
     {
       "id": 4,
-      "name": "Fake-sleep meetup",
-      "date": "01-02-2022",
-      "description": "This is a short, simple and meaningful meetup for people that casually like to fake-sleep."
+      "name": "q",
+      "date": "w",
+      "description": "e",
+      "editMode": false,
+      "formValues": {
+        "editMode": false,
+        "formValues": {
+          "editMode": false,
+          "formValues": {
+            "name": "",
+            "date": "",
+            "description": ""
+          },
+          "name": "q"
+        },
+        "name": "q",
+        "date": "w"
+      }
     },
     {
       "id": 5,
-      "name": "New Years Eve",
-      "date": "31-12-2022",
-      "description": "It's going to be wait for it."
+      "name": "a",
+      "date": "b",
+      "description": "c",
+      "editMode": false,
+      "formValues": {
+        "editMode": false,
+        "formValues": {
+          "editMode": false,
+          "formValues": {
+            "name": "",
+            "date": "",
+            "description": ""
+          },
+          "name": "a"
+        },
+        "name": "a",
+        "date": "b"
+      }
     },
     {
       "name": "s",
@@ -37,36 +139,33 @@
       "id": 8
     },
     {
-      "name": "code your brains out",
-      "date": "",
-      "description": "",
-      "id": 9
+      "name": "o",
+      "date": "j",
+      "description": "k",
+      "id": 9,
+      "editMode": false,
+      "formValues": {
+        "editMode": false,
+        "formValues": {
+          "editMode": false,
+          "formValues": {
+            "name": "",
+            "date": "",
+            "description": ""
+          },
+          "name": "o"
+        },
+        "name": "o",
+        "date": "j"
+      }
     }
   ],
   "comments": [
-    {
-      "id": 1,
-      "author": "Eric",
-      "body": "After one look at this planet any visitor from outer space would say “I WANT TO SEE THE MANAGER.”",
-      "eventId": 1
-    },
     {
       "id": 2,
       "author": "Suzan",
       "body": "Some people come into our lives and leave footprints on our hearts, while others come into our lives and make us wanna leave footprints on their face.",
       "eventId": 2
-    },
-    {
-      "id": 3,
-      "author": "Billy",
-      "body": "I'm always relieved when someone is delivering a eulogy and I realise I'm listening to it.",
-      "eventId": 1
-    },
-    {
-      "id": 4,
-      "author": "Pete",
-      "body": "A good lawyer knows the law; a clever one takes the judge to lunch.",
-      "eventId": 1
     },
     {
       "id": 5,

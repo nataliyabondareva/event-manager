@@ -1,6 +1,6 @@
 import React from 'react'
-import {connect} from 'react-redux'
-import {createEvent} from '../actions/events'
+import { connect } from 'react-redux'
+import { createEvent } from '../actions/events'
 import EventForm from './EventForm'
 
 class CreateEventFormContainer extends React.Component {
@@ -26,7 +26,7 @@ class CreateEventFormContainer extends React.Component {
     })
   }
 
-  render() {
+  render () {
     return (<EventForm
       onSubmit={this.onSubmit}
       onChange={this.onChange}
@@ -35,4 +35,4 @@ class CreateEventFormContainer extends React.Component {
   }
 }
 
-export default connect(null, {createEvent})(CreateEventFormContainer)
+export default connect(null, { createEvent })(CreateEventFormContainer)
